@@ -7,6 +7,7 @@ menu.onclick = () => {
 }
 
 /*---=======Dark-Mode===========---*/
+
 let darkmode = document.querySelector('#darkmode');
 
 darkmode.onclick = () => {
